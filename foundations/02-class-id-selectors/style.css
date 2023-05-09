@@ -1,0 +1,26 @@
+.first.p{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.ID.one{
+    color: blue;
+    font-size: 36px;
+}
+
+.third.p{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 24px;
+}
+
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.fifth.p{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
